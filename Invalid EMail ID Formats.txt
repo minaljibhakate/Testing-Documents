@@ -1,0 +1,16 @@
+example.com
+A@b@c@domain.com
+A..c@domain.com
+abc-@mail.com
+abc#def@mail.com
+abc.def@mail.c
+abc.def@mail#archive.com	
+abc.def@mail
+abc.def@mail..com
+example-email@testServer.com
+.test@domain.com
+test@domain..com
+a”b(c)d,e:f;gi[j\k]l@domain.com
+abc”test”email@domain.com
+abc is”not\valid@domain.com
+abc\ is\”not\valid@domain.com
